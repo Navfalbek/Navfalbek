@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Navfalbek
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Machine Learning, Deep Learning
+- 📫 How to reach me:
+   - Email: navfalbek.uz@gmail.com
+   - LinkedIn: https://www.linkedin.com/in/navfalbek-makhfuzullaev-738933224
