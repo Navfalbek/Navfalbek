@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Navfalbek 🚀
+- 👋 Hey there, I’m @Navfalbek 🚀
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Machine Learning, Deep Learning
 - 📫 How to reach me:
