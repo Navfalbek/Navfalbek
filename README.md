@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m @Navfalbek 🚀
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI and Space Exploration 🛰
 - 🌱 I’m currently learning Machine Learning, Deep Learning
 - 📫 How to reach me:
    - Email: navfalbek.uz@gmail.com
