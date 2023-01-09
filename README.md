@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 📫 How to reach me:
    - Email: navfalbek.uz@gmail.com
-   - LinkedIn: https://www.linkedin.com/in/navfalbek-makhfuzullaev-738933224
+   - LinkedIn: https://www.linkedin.com/in/navfalbek/
    - Telegram: https://t.me/navfalbekm
    - Instagram: https://www.instagram.com/navfalbek.m/
