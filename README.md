@@ -8,3 +8,6 @@
    - LinkedIn: https://www.linkedin.com/in/navfalbek/
    - Telegram: https://t.me/navfalbekm
    - Instagram: https://www.instagram.com/navfalbek.m/
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/navfalbek?theme=dark&font=K2D)
